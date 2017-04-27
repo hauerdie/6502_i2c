@@ -10,3 +10,4 @@ The code is not optimized, setting SDA and SCL are subroutines, which slows down
 Examples:
 i2sscan.c       can be used to scan the i2c bus.
 ds3231_date.c   read the date of a ds3231 realtime clock attached to the i2c bus.
+
