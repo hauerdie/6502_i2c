@@ -7,7 +7,7 @@ cc65 is used for assembly and compilation of the examples.
 
 The code is not optimized, setting SDA and SCL are subroutines, which slows down communication a lot.
 
-Examples:
-i2sscan.c       can be used to scan the i2c bus.
-ds3231_date.c   read the date of a ds3231 realtime clock attached to the i2c bus.
+## Examples:
+1. i2sscan.c - can be used to scan the i2c bus.
+2. ds3231_date.c - read the date of a ds3231 realtime clock attached to the i2c bus.
 
